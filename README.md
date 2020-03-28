@@ -1,4 +1,4 @@
-# barslider2
+# ProviderBarChartSlider
 
 A new Flutter project.
 
